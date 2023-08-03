@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/react-disneyplus-app/static/css/main.109fd469.css",
+    "main.js": "/github.io/react-disneyplus-app/static/js/main.716d4a9d.js",
+    "static/js/787.dce46dae.chunk.js": "/github.io/react-disneyplus-app/static/js/787.dce46dae.chunk.js",
+    "index.html": "/github.io/react-disneyplus-app/index.html",
+    "main.109fd469.css.map": "/github.io/react-disneyplus-app/static/css/main.109fd469.css.map",
+    "main.716d4a9d.js.map": "/github.io/react-disneyplus-app/static/js/main.716d4a9d.js.map",
+    "787.dce46dae.chunk.js.map": "/github.io/react-disneyplus-app/static/js/787.dce46dae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.109fd469.css",
+    "static/js/main.716d4a9d.js"
+  ]
+}
